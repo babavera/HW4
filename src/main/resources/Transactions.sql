@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS "Transactions"(transactionid integer NOT NULL, accountid integer NOT NULL, amount integer NOT NULL, PRIMARY KEY (transactionid));

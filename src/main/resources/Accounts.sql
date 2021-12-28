@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS "Accounts"(accountid integer NOT NULL, userid integer NOT NULL, balance integer NOT NULL, currency character varying NOT NULL, PRIMARY KEY (accountid));

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS "Users"(userid integer NOT NULL, name character varying(50) NOT NULL, address character varying(255), PRIMARY KEY (userid));
